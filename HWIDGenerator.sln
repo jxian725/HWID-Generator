@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HWIDGenerator", "HWIDGenerator.vbproj", "{2BD95183-7394-43DE-BC1B-754B6EDD6977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD95183-7394-43DE-BC1B-754B6EDD6977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD95183-7394-43DE-BC1B-754B6EDD6977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD95183-7394-43DE-BC1B-754B6EDD6977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD95183-7394-43DE-BC1B-754B6EDD6977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {834F6AD5-2E58-47DA-8220-5F2A1EB1632A}
+	EndGlobalSection
+EndGlobal
